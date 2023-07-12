@@ -2,20 +2,7 @@
 @use "../top/glow";
 
 // Chat content text glow
-.markup-eYLPri {
-    text-shadow: 2px 0 10px $glow-color, -2px 0 10px $glow-color;
-}
-
-.repliedTextContent-2hOYMB.markup-eYLPri,
-.edited-1v5nT8,
-.markup-eYLPri code.hljs,
-.markup-eYLPri code.inline,
-.timestamp-2qj4__,
-.timestamp-p1Df1m,
-.timestampInline-_lS3aK,
-.threadMessageAccessoryPreview-13YRmc .markup-eYLPri {
-    text-shadow: none;
-}
+// Removed
 
 // Channel and user pings, hyperlinks
 .appMount-2yBXZl .mention,
